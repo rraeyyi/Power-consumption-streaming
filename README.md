@@ -1,6 +1,6 @@
 # Power-consumption-streaming
 
-The data is modified from the UCI machine learning repository. The study was about relating power consumption from different zones of Tetouan city to various factors like time of day, temperature, and humidity.
+The data is modified from the [UCI machine learning repository](https://archive.ics.uci.edu/ml/datasets/Power+consumption+of+Tetouan+city). The study was about relating power consumption from different zones of Tetouan city to various factors like time of day, temperature, and humidity.
 
 This project contains two parts: modeling part and streaming part:
 
